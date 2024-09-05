@@ -49,12 +49,12 @@
         },
         {
           "pid": "com_glykka_easysign_test",
-          "original_pid": "com_glykka_easysign_essential_monthly_2021_10",
+          "original_pid": "com_glykka_easysign_test",
           "count": 30,
           "id": 5,
           "message": "",
           "save_percentage": "",
-          "is_intro_offer": true,
+          "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": ""
