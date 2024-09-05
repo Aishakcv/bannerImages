@@ -54,7 +54,7 @@
           "id": 5,
           "message": "",
           "save_percentage": "",
-          "is_intro_offer": false,
+          "is_intro_offer": true,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": ""
