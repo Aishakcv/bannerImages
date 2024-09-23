@@ -24,8 +24,8 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_test",
-          "original_pid": "com_glykka_easysign_test",
+          "pid": "com_glykka_easysign_essential_year_100",
+          "original_pid": "com_glykka_easysign_essential_year_100",
           "count": 365,
           "id": 2,
           "save_percentage": "50%",
@@ -36,8 +36,8 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
         {
-          "pid": "com_glykka_easysign_test",
-          "original_pid": "com_glykka_easysign_test",
+          "pid": "com_glykka_easysign_pro_year_180t",
+          "original_pid": "com_glykka_easysign_pro_year_180",
           "count": 365,
           "id": 3,
           "message": "",
@@ -60,8 +60,8 @@
           "discounted_plan_pid": ""
         },
         {
-          "pid": "com_glykka_easysign_test",
-          "original_pid": "com_glykka_easysign_test",
+          "pid": "com_glykka_easysign_pro_month_25",
+          "original_pid": "com_glykka_easysign_pro_month_25",
           "count": 30,
           "id": 6,
           "message": "",
