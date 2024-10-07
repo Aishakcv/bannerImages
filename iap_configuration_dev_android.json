@@ -24,8 +24,8 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_test",
-          "original_pid": "com_glykka_easysign_test",
+          "pid": "com_glykka_easysign_essential_year_100",
+          "original_pid": "com_glykka_easysign_essential_year_100",
           "count": 365,
           "id": 2,
           "save_percentage": "50%",
