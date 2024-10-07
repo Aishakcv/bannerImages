@@ -25,7 +25,7 @@
       "global": [
         {
           "pid": "com_glykka_easysign_essential_year_100",
-          "original_pid": "com_glykka_easysign_essential_year_100",
+          "original_pid": "com_glykka_easysign_essential_oneyear_2021_60",
           "count": 365,
           "id": 2,
           "save_percentage": "50%",
@@ -37,7 +37,7 @@
         },
         {
           "pid": "com_glykka_easysign_pro_year_180",
-          "original_pid": "com_glykka_easysign_pro_year_180",
+          "original_pid": "com_glykka_easysign_professional_oneyear_2021_100",
           "count": 365,
           "id": 3,
           "message": "",
