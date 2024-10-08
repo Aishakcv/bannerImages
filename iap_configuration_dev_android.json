@@ -30,7 +30,7 @@
           "id": 2,
           "save_percentage": "50%",
           "message": "",
-          "is_intro_offer": true,
+          "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
@@ -42,7 +42,7 @@
           "id": 3,
           "message": "",
           "save_percentage": "50%",
-          "is_intro_offer": true,
+          "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
           "discounted_plan_pid": "com_glykka_easysign_professional_oneyear_2021_70"
