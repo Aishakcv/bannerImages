@@ -24,7 +24,7 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_test",
+          "pid": "signeasy_essential_yearly_50cut_96",
           "original_pid": "com_glykka_easysign_essential_year_100",
           "count": 365,
           "id": 2,
@@ -36,7 +36,7 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
         {
-          "pid": "com_glykka_easysign_test",
+          "pid": "signeasy_professional_yearly_50cut_180",
           "original_pid": "com_glykka_easysign_pro_year_180",
           "count": 365,
           "id": 3,
