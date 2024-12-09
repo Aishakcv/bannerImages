@@ -24,11 +24,11 @@
       "globalOrRegional": "global",
       "global": [
         {
-          "pid": "com_glykka_easysign_essential_year_50",
-          "original_pid": "com_glykka_easysign_essential_year_50",
+          "pid": "com_glykka_easysign_essential_year_100",
+          "original_pid": "com_glykka_easysign_essential_year_100",
           "count": 365,
           "id": 2,
-          "save_percentage": "50%",
+          "save_percentage": "",
           "message": "",
           "is_intro_offer": false,
           "is_discounted" : false,
@@ -36,12 +36,12 @@
           "discounted_plan_pid": "com_glykka_easysign_essential_oneyear_2021_50"
         },
         {
-          "pid": "com_glykka_easysign_pro_year_90",
-          "original_pid": "com_glykka_easysign_pro_year_90",
+          "pid": "com_glykka_easysign_pro_year_180",
+          "original_pid": "com_glykka_easysign_pro_year_180",
           "count": 365,
           "id": 3,
           "message": "",
-          "save_percentage": "50%",
+          "save_percentage": "",
           "is_intro_offer": false,
           "is_discounted" : false,
           "save_on_annual_billing": "50%",
