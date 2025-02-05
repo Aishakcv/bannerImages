@@ -1,0 +1,211 @@
+<configuration>
+<forceAppUpdate>
+<iosUpdate>
+<updateUrl>http://itunes.apple.com/app/signeasy/id381786507?mt=8</updateUrl>
+<updateMessage>Get the latest version for an improved signing experience.</updateMessage>
+<version>12.0.0</version>
+<testMode>0</testMode>
+<minRequirediOSVersion>9.0</minRequirediOSVersion>
+<BlockApp>
+<NotSupportedBelowVersion>
+<minRequiredAppVersion>12.0.0</minRequiredAppVersion>
+<minRequirediOSVersion>13.0.0</minRequirediOSVersion>
+<message>This version is no longer supported. Get an improved signing experience with the new update. It’ll just take a minute!</message>
+</NotSupportedBelowVersion>
+<FaultyVersion>
+<minRequiredAppVersion>12.0.0</minRequiredAppVersion>
+<minRequirediOSVersion>13.0.0</minRequirediOSVersion>
+<message>This version of the app has a critical issue. You should update to continue using SignEasy.</message>
+</FaultyVersion>
+</BlockApp>
+</iosUpdate>
+<androidUpdate>
+<updateUrl>https://play.google.com/store/apps/details?id=com.glykka.easysign</updateUrl>
+<updateMessage>Fixed app crash on adding a text annotation.</updateMessage>
+<version>12.0.0</version>
+<testMode>1</testMode>
+<minRequiredAndroidAPIVersion>15</minRequiredAndroidAPIVersion>
+<BlockApp>
+<NotSupportedBelowVersion>
+<minRequiredAppVersion>12.0.0</minRequiredAppVersion>
+<minRequiredAndroidAPIVersion>15</minRequiredAndroidAPIVersion>
+<message>This version is no longer supported. Get an improved signing experience with the new update. It’ll just take a minute!</message>
+</NotSupportedBelowVersion>
+<FaultyVersion>
+<minRequiredAppVersion>12.0.0</minRequiredAppVersion>
+<minRequiredAndroidAPIVersion>15</minRequiredAndroidAPIVersion>
+<message>This version of the app has a critical issue. You should update to continue using SignEasy.</message>
+</FaultyVersion>
+</BlockApp>
+</androidUpdate>
+<amazonAndroidUpdate>
+<updateUrl>http://www.amazon.com/gp/mas/dl/android?p=com.glykka.easysign</updateUrl>
+<updateMessage>Updated In-App Purchasing and UI.</updateMessage>
+<version>3.1.2</version>
+<testMode>1</testMode>
+</amazonAndroidUpdate>
+<BBFreeUpdate>
+<updateUrl>http://appworld.blackberry.com/webstore/content/22626873</updateUrl>
+<updateMessage>Latest version of SignEasy-Free is now available.</updateMessage>
+<version>1.0.8</version>
+<testMode>0</testMode>
+</BBFreeUpdate>
+<BBProUpdate>
+<updateUrl>http://appworld.blackberry.com/webstore/content/22857940</updateUrl>
+<updateMessage>Latest version of SignEasy-Premium is now available.</updateMessage>
+<version>1.0.7</version>
+<testMode>0</testMode>
+</BBProUpdate>
+</forceAppUpdate>
+<appInfo>
+<videoTours>
+<iphone/>
+<ipad/>
+<android>http://www.youtube.com/watch?v=78fsoYmJzWk</android>
+<blackberry>http://www.youtube.com/watch?v=yUtcHJFoxN8</blackberry>
+</videoTours>
+<FeaturePreview>
+<ios>https://youtu.be/niVvPvj5nkk</ios>
+<android>https://www.youtube.com/watch?v=aj4s1kh3z74</android>
+</FeaturePreview>
+<IAPInfo>
+<VPPBanner>
+<ios>
+<enable>0</enable>
+<link>http://lp.getsigneasy.com/request-a-demo/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=VPP&utm_campaign=AwareandAcquire_Generic</link>
+<sidePanelLink>http://lp.getsigneasy.com/request-a-demo-nav/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=LeftNaviOS&utm_campaign=AwareandAcquire_Generic</sidePanelLink>
+<message>Need this plan for your team?</message>
+<enableForSidePanel>1</enableForSidePanel>
+</ios>
+<android>
+<enable>1</enable>
+<link>http://lp.getsigneasy.com/request-a-demo/?utm_source=InAppMessage&utm_medium=App&utm_term=Android&utm_content=VPP&utm_campaign=AwareandAcquire_Generic</link>
+</android>
+</VPPBanner>
+<Subtext>
+<ios>
+<enable>1</enable>
+</ios>
+</Subtext>
+<PayAsYouGo>
+<ios>
+<countriesLocaleIdentifier type="array">
+<identifier>en_US</identifier>
+<identifier>en_GB</identifier>
+<identifier>en_AU</identifier>
+<identifier>en_CA</identifier>
+<identifier>en_ZA</identifier>
+</countriesLocaleIdentifier>
+</ios>
+</PayAsYouGo>
+</IAPInfo>
+</appInfo>
+<serverHealthStatus>
+<serverStatusCode>server_available</serverStatusCode>
+<serverStatusMessage>Our system is under scheduled maintenance from 8 AM to 12 PM IST.</serverStatusMessage>
+<maintenanceTime/>
+</serverHealthStatus>
+<sessionTimeout>
+<serverSessionTimeout>30</serverSessionTimeout>
+</sessionTimeout>
+<errorMessages>
+<fileLimit>50</fileLimit>
+</errorMessages>
+<appRaterAndroid>
+<firstLimit>2</firstLimit>
+<secondLimit>4</secondLimit>
+<thirdLimit>6</thirdLimit>
+</appRaterAndroid>
+<appRaterIOS>
+<userSignatureCount type="array">
+<value>3</value>
+<value>6</value>
+<value>20</value>
+</userSignatureCount>
+</appRaterIOS>
+<ProTrialNotification>
+<AndroidTitle>Welcome to SignEasy!</AndroidTitle>
+<AndroidMessage>Enjoy all SignEasy Pro features in this 7-day free trial.</AndroidMessage>
+</ProTrialNotification>
+<InAppMessaging>
+<ios>
+<default>{"enable": false,"icon-category": "alert","inapp-category": "marketing","inapp-subcategory": "iemi","message_id": 64,"message_string": "Scheduled downtime: Our systems will be undergoing maintenance on June 1st from 8 AM to 12 PM UTC.","url": "","payload": {}}</default>
+<basic>{"enable": true,"icon-category": "gift","inapp-category": "product","inapp-subcategory": "usstorefeatured","message_id": 73,"message_string": "Explore ways to grow your business with shareable templates, company branding and more.","icon-category": "gift","url": "","payload": {"screen": "purchase_plans", "extra_detail": "pro"}}</basic>
+<payg>{"enable": true,"icon-category": "offer","inapp-category": "product","inapp-subcategory": "usstorefeatured","message_id": 72,"message_string": "Explore ways to grow your business with shareable templates, company branding and more.","url": "http://lp.getsigneasy.com/request-a-demo-nav/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=InAppBanner&utm_campaign=AwareandAcquire_Generic","payload": {}}</payg>
+<premium_lifetime>{"enable": true,"icon-category": "alert","inapp-category": "marketing","inapp-subcategory": "iemi","message_id": 49,"message_string": "Explore ways to grow your business with shareable templates, company branding and more.","url": "http://lp.getsigneasy.com/request-a-demo-nav/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=InAppBanner&utm_campaign=AwareandAcquire_Generic","payload": {}}</premium_lifetime>
+<pro>{"enable": true,"inapp-category": "product","inapp-subcategory": "usstorefeatured","message_id": 44,"message_string": "Explore ways to grow your business with shareable templates, company branding and more.","icon-category": "info","url": "http://lp.getsigneasy.com/request-a-demo-nav/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=InAppBanner&utm_campaign=AwareandAcquire_Generic","payload": {}}</pro>
+<business>{"enable": true,"icon-category": "tip","inapp-category": "product","inapp-subcategory": "survey_satisfaction","message_id": 33,"message_string": "Explore ways to grow your business with shareable templates, company branding and more.","url": "http://lp.getsigneasy.com/request-a-demo-nav/?utm_source=InAppMessage&utm_medium=App&utm_term=iOS&utm_content=InAppBanner&utm_campaign=AwareandAcquire_Generic","payload": {}}</business>
+<enterprise>{"enable": false,"icon-category": "alert","inapp-category": "product","inapp-subcategory": "everest","message_id": 40,"message_string": "Limited offer: Up to 40% off on Pro and Business plans. Tap to upgrade.","url": "https://www.youtube.com/watch?v=aj4s1kh3z74","payload": {"screen": "purchase_plans", "extra_detail": "pro"}}</enterprise>
+</ios>
+<android>
+<default>{"enable": false,"icon-category": "gift","inapp-category": "marketing","inapp-subcategory": "year-end-discount-2017","message_id": 57,"message_string": "Save some green this Earth Day. Get 25% off on annual plans!","url": "","payload": {"screen": "purchase_plans", "extra_detail": "business"}}</default>
+<basic>{"enable": true,"icon-category": "gift","inapp-category": "emidroid","inapp-subcategory": "emi","message_id": 73,"message_string": "Cyber Monday Sale: 25% off on annual plans, this week only!","url": "","payload": {"screen": "purchase_plans", "extra_detail": "plus"}}</basic>
+<payg>{"enable": false,"icon-category": "gift","inapp-category": "emidroid","inapp-subcategory": "emi","message_id": 69,"message_string": "Cyber Monday Sale: 25% off on annual plans, this week only!","url": "","payload": {"screen": "purchase_plans", "extra_detail": "business"}}</payg>
+<premium_lifetime>{"enable": false,"icon-category": "info","inapp-category": "","inapp-subcategory": "","message_id": 68,"message_string": "Cyber Monday Sale: 25% off on annual plans, this week only!","url": "","payload": {"screen": "purchase_plans", "extra_detail":"business"}}</premium_lifetime>
+<pro>{"enable": false,"icon-category": "info","inapp-category": "","inapp-subcategory": "","message_id": 69,"message_string": "Cyber Monday Sale: 25% off on annual plans, this week only!","url": "","payload": {"screen": "purchase_plans", "extra_detail": "business"}}</pro>
+<business>{"enable": false,"icon-category": "info","inapp-category": "","inapp-subcategory": "","message_id": 59,"message_string": "How likely are you to recommend SignEasy? Tap here to rate!","url": "https://docs.google.com/forms/d/1pt1EYqikSQjSnx-1zolx4SwaAGnb7s7zJeO89lFOGSQ/edit","payload": {}}</business>
+<enterprise>{"enable": false,"icon-category": "info","inapp-category": "","inapp-subcategory": "","message_id": 58,"message_string": "","url": "","payload": {"screen": "purchase_plans", "extra_detail":"business"}}</enterprise>
+</android>
+<webapp>
+<webapp>
+<default>{"enable": false,"icon-category": "info","inapp-category": "marketing","inapp-subcategory": "templatelinks","message_id": 74,"message_string": "Get Signeasy at 30% OFF","url": "","payload": {}}</default>
+<basic>
+{"enable": false, "inapp-category": "marketing","inapp-subcategory": "parallel_signing","message_id": 59,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, choose the easiest way to sign, send, and manage contracts.<u style='color:#00B480;margin-left:4px;'>Get Signeasy at 30% OFF</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</basic>
+<essential>
+{"enable": false, "inapp-category": "marketing","inapp-subcategory": "parallel_signing","message_id": 74,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, upgrade to enjoy Signeasy’s premium features while saving 30%.<u style='color:#00B480;margin-left:4px;'>Get 30% OFF on Business Plan</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/checkout?plan=YnVzaW5lc3M=&iap_id=YW5udWFs&path=nav_topbar&coupon=SIGNEASY30&isCheckout=true","payload": {}}
+</essential>
+<business_trial>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "discount","message_id": 75,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, choose the easiest way to sign, send, and manage contracts.<u style='color:#00B480;margin-left:4px;'>Get Signeasy at 30% OFF</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</business_trial>
+<multiseat_pro>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "beta_fields","message_id": 55,"message_string":"
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, upgrade to enjoy Signeasy’s premium features while saving 30%.<u style='color:#00B480;margin-left:4px;'>Get 30% OFF on Business Plan</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/checkout?plan=YnVzaW5lc3M=&iap_id=YW5udWFs&path=nav_topbar&coupon=SIGNEASY30&isCheckout=true","payload": {}}
+</multiseat_pro>
+<multiseat_pro_trial>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "discount","message_id": 75,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, choose the easiest way to sign, send, and manage contracts.<u style='color:#00B480;margin-left:4px;'>Get Signeasy at 30% OFF</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</multiseat_pro_trial>
+<enterprise>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "discount","message_id": 75,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, choose the easiest way to sign, send, and manage contracts.<u style='color:#00B480;margin-left:4px;'>Get Signeasy at 30% OFF</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</enterprise>
+<api_trial>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "discount","message_id": 75,"message_string": "
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, delight your customers with the easiest eSignature experience.<u style='color:#00B480;margin-left:4px;'>Get Signeasy at 30% OFF</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</api_trial>
+<api_starter>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "beta_fields","message_id": 55,"message_string":"
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, get the best deal and the most value out of your Signeasy API plan.<u style='color:#00B480;margin-left:4px;'>Upgrade Now and Save 30%</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</api_starter>
+<api_intermediate>
+{"enable": false, "inapp-category": "product","inapp-subcategory": "beta_fields","message_id": 55,"message_string":"
+<![CDATA[ <p style='color: #444444;font-size: 12px;font-weight: 600;text-align: center;margin-bottom: 0;'><img src='https://static.signeasy.com/assets/banner/introductory-pricing.svg' style='margin-right: 4px;margin-top: -4px;'/>This holiday season, get the best deal and the most value out of your Signeasy API plan.<u style='color:#00B480;margin-left:4px;'>Upgrade Now and Save 30%</u></p> ]]>
+","icon-category": "gift","url": "https://app.signeasy.com/payment/plans","payload": {}}
+</api_intermediate>
+</webapp>
+</webapp>
+</InAppMessaging>
+<Features>
+<android>
+<RequestSignatureCreation>False</RequestSignatureCreation>
+</android>
+<ios>
+<RequestSignatureCreation>False</RequestSignatureCreation>
+</ios>
+<webapp>
+<RequestSignatureCreation>False</RequestSignatureCreation>
+</webapp>
+</Features>
+</configuration>
